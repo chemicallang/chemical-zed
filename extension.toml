@@ -8,7 +8,7 @@ repository = "https://github.com/chemicallang/chemical"
 
 [language_servers.chemical-lsp]
 name = "Chemical LSP"
-language = "Chemical"
+languages = ["Chemical"]
 
 [grammars.chemical]
 repository = "https://github.com/chemicallang/tree-sitter-chem"
