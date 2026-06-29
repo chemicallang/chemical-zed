@@ -1,6 +1,6 @@
 name = "Chemical"
 grammar = "chemical"
-path_suffixes = ["ch"]
+path_suffixes = ["ch", "mod"]
 line_comments = ["// "]
 autoclose_before = ";:.,=}])>"
 brackets = [
@@ -11,3 +11,7 @@ brackets = [
   { start = "`", end = "`", close = true, newline = false, not_in = ["string"] },
 ]
 tab_size = 4
+
+[file_icons]
+ch = "chemical"
+mod = "chemical-mod"

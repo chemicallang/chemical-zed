@@ -1,0 +1,5 @@
+/target
+extension.wasm
+*.swp
+*.swo
+.DS_Store

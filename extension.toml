@@ -12,5 +12,4 @@ language = "Chemical"
 
 [grammars.chemical]
 repository = "https://github.com/chemicallang/tree-sitter-chem"
-# 🔴 Push the grammar to GitHub and replace HEAD with the actual commit SHA
-commit = "HEAD"
+rev = "93636f69f5fb272fbd5b0a884d9cae4a77a15e9c"
