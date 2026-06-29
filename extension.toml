@@ -11,4 +11,5 @@ name = "Chemical LSP"
 languages = ["Chemical"]
 
 [grammars.chemical]
-path = "grammars/tree-sitter-chemical.wasm"
+repository = "https://github.com/chemicallang/tree-sitter-chem"
+rev = "ccabeff258db8f8e1f35b2a00a95b4592aeea940"
