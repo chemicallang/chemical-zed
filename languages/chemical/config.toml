@@ -11,7 +11,3 @@ brackets = [
   { start = "`", end = "`", close = true, newline = false, not_in = ["string"] },
 ]
 tab_size = 4
-
-[file_icons]
-ch = "chemical"
-mod = "chemical-mod"

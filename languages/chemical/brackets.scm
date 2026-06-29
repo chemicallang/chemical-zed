@@ -1,5 +1,3 @@
-; Bracket matching for Chemical
-
 (
   "(" @open
   ")" @close

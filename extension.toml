@@ -12,4 +12,4 @@ languages = ["Chemical"]
 
 [grammars.chemical]
 repository = "https://github.com/chemicallang/tree-sitter-chem"
-rev = "ccabeff022ce8b77b64889ba52e596ac1ceb64ba"
+rev = "9b340f7ce6843d34798d48f9881c38e939642225"
