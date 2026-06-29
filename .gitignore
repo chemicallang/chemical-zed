@@ -1,5 +1,7 @@
 /target
 extension.wasm
+grammars/*.wasm
+grammars/chemical/
 *.swp
 *.swo
 .DS_Store
