@@ -1,0 +1,16 @@
+id = "chemical"
+name = "Chemical"
+description = "Chemical Programming Language support — LSP integration, syntax highlighting, and code intelligence."
+version = "0.1.0"
+schema_version = 1
+authors = ["Chemical Language Foundation"]
+repository = "https://github.com/chemicallang/chemical"
+
+[language_servers.chemical-lsp]
+name = "Chemical LSP"
+language = "Chemical"
+
+[grammars.chemical]
+repository = "https://github.com/chemicallang/tree-sitter-chem"
+# 🔴 Push the grammar to GitHub and replace HEAD with the actual commit SHA
+commit = "HEAD"
